@@ -4,4 +4,4 @@ from character import Character
 
 if __name__ == "__main__":
     hero = Character("Vilkir")
-    print(hero.name)
+    print(hero)
